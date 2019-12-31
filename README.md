@@ -5,16 +5,11 @@ A repository dedicated to the #100DaysofMLCode Challenge.
 
 **Earliest Motivation**
 
-* I have heard Machine Learing long ago, the idea of implecitly geeting the insights from data and using that method to solve real world problem is always intriguting to dive in deep. I was thinking for last few days about a dedicated study track for 'learning' machine learning stuffs. In the begining of 2020 seems a good time to start the long chearished inclination. 
+* I have heard Machine Learning long ago, the idea of implicitly getting the insights from data and using that method to solve real-world problems is always intriguing to dive in deep. I was thinking, last few days about a dedicated study track for 'learning' machine learning stuff. At the beginning of 2020 seems a good point to start the long-cherished inclination. 
 
-* This track includes getting the idea of behind secaniro of most common Machine Learning algorithms and implementing the theorotical stuff into working code. I will list downs papers, moocs, books and other resources in this 100 days of exciting learning.
+* This track includes getting the idea of behind scenario and intuition of most common Machine Learning algorithms and implementing the theoretical ideas into working code. I will list downs papers, MOOCs, books, and other resources for 100 days. 
 
 * Happy Learning also Happy New Year. 
-
-**Thoughts:**
-
-1. 
-2. 
 
 <details>
  <summary> Day 1 - Jan 01, 2020 </summary>
