@@ -9,16 +9,16 @@ A repository dedicated to the #100DaysofMLCode Challenge.
 
 * Happy Learning also Happy New Year. 
 
-##
+---
 
 <details>
  <summary> Day 0 - Dec 31, 2019 </summary>
   
   **Progress:** 
   
-  1. Listing Down all the MOOCs, I'll finish with this timeframe. 
-  2. Getting a high level introduction 
-  3. Following recent research trends in ML feild. 
+  1. Listed down some quality MOOCs to finish in this timeframe. 
+  2. Got a high level introduction of AI-ML-DL. 
+  3. Followed recent research trends in ML feild in twitter. 
   
   **Thoughts:**
 
@@ -28,5 +28,6 @@ A repository dedicated to the #100DaysofMLCode Challenge.
   **Link(s)**
 
   1. [Machine Learning for Software Engineers](https://github.com/nurakib/machine-learning-for-software-engineers)
+  2. [The Mathematics of Machine Learning](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
   
 </details>
